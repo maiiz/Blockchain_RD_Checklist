@@ -19,6 +19,7 @@
 - [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/content/)
 - [区块链：定义未来金融与经济新格局](http://product.dangdang.com/23992352.html)
 - [Hyperledger 源码分析之 Fabric](https://yeasy.gitbooks.io/hyperledger_code_fabric/content/)
+- [Ethereum 源码分析](https://github.com/ZtesoftCS/go-ethereum-code-analysis)
 - [programming blockchain in c#](https://programmingblockchain.gitbooks.io/programmingblockchain/content/)
 
 ## 图文教程
